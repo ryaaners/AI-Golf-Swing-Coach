@@ -1,0 +1,6 @@
+opencv-python
+google-generativeai
+matplotlib
+Pillow
+jupyter
+notebook
